@@ -1,0 +1,22 @@
+---
+title: "Mes trois poissons"
+author: "Louis Lafortune"
+format: revealjs
+editor: visual
+---
+
+## Vacances d'été 2023 {background-image="trouty.jpg" background-opacity=0.45}
+
+![](fish_n_louis.jpg)
+
+::: {.notes}
+Été
+Juillet
+Chalet
+Lac
+Quai
+Cousin
+Truites
+Sourire
+Heureux
+:::
